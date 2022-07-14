@@ -4,14 +4,14 @@
 
 // - - THANKS TO - -
 // • Allah SWT
-// • Nurutomo
-// • Bochilgaming
-// • Rominaru
-// • Kannachann
-// • The.Sad.Boy01
-// • Rasel comel
-// • LeonGanz
-// • Xtreshe (Beban)
+// • Nabi Muhammad Saw
+// • bayu
+// • Zein
+// • Irpan/Asep
+// • Apihh As Piap
+// • Vanitas as Lux
+// • Ipangg
+// • Marga MDB🗿
 // • Dll
 
 //[!] Jangan Dihapus, mending ditambahin 
@@ -45,31 +45,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/leonvx._'
-global.sgh = 'https://bl4ck-lion.github.io/index.php'
-global.sgc = 'https://chat.whatsapp.com/HHjPtKIjkzb1ud0QtrkbQH'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://youtube.com/c/LeonGanz/'
+global.sig = 'https://instagram.com/lux.cuy._'
+global.sgh = 'https://riseky8876.github.io/index.php'
+global.sgc = 'https://chat.whatsapp.com/KtBPMRrMAdIBjwKf3MQhkP'
+global.sdc = 'https://discord.gg/5qvFEH4B'
+global.snh = 'https://youtube.com/channel/UCK_5zbPBqJsRaUuxIcxwCWQ'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085608625102'
-global.povo = '085608625102'
-global.pgopay = '085608625102'
-global.ppulsa = '085608625102'
-global.ppulsa2 = '085608625102'
-global.psaweria = 'https://saweria.com/LeonGanz'
+global.pdana = '083173788896'
+global.povo = '081364725897'
+global.pgopay = '083173788896'
+global.ppulsa = '081364725897'
+global.ppulsa2 = '083173788896'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895410472842'
-global.nomorown = '6285608625102'
-global.namebot = 'Yui - Chan'
-global.nameown = 'Rama -Agung'
+global.nomorbot = '6283173788896'
+global.nomorown = '6283173788896'
+global.namebot = 'Vanitas - Kun'
+global.nameown = 'Risky - Afk'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285608625102', 'Rama Agung', true],
-  ['6287877173955', 'Ferdiz-Afk', true] //Ganti jd nomormu sama Namamu
+  ['6283173788896', 'Vanitas As Lux', true],
+  ['6281364725897', 'Risky-Afk', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,13 +114,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Yui - Chan 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Yui - Chan ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Yui - Chan '
+global.wm = '                「 vanitas - kun 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Risky - Afk ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Risky - Afk '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By LeonGanz`
-global.author = '                「 Yui - Chan  あ⁩ 」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Gw`
+global.author = '                「 Vanitas - Kun  あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -188,8 +188,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Yui - Chan'
-global.stickauth = `By ©LeonGanz`
+global.stickpack = 'Vanitas - Kun'
+global.stickauth = `By ©Risky - Afk`
 
 global.multiplier = 38 // The higher, The harder levelup
 
