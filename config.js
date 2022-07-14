@@ -62,13 +62,13 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '6283173788896'
 global.nomorown = '6283173788896'
-global.namebot = 'Vanitas - Kun'
+global.namebot = 'Yui - Chan'
 global.nameown = 'Risky - Afk'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283173788896', 'Vanitas As Lux', true],
+  ['6283173788896', 'GAK TAU', true],
   ['6281364725897', 'Risky-Afk', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -114,13 +114,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 vanitas - kun 」' //Main Watermark
+global.wm = '                「 Yui - Chan 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Risky - Afk ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ Risky - Afk '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By Gw`
-global.author = '                「 Vanitas - Kun  あ⁩ 」'
+global.author = '                「 Yui - Chan  あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -188,7 +188,7 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Vanitas - Kun'
+global.stickpack = 'Yui - Chan'
 global.stickauth = `By ©Risky - Afk`
 
 global.multiplier = 38 // The higher, The harder levelup
